@@ -1,0 +1,29 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Radeon HD 4670 (ID=0x9488)
+    Vendor:   ATI
+    VRAM:     2161 MB
+    Driver:   8.812.0.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ProyectoGame\Reelase\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\ProyectoGame\Reelase\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ProyectoGame\Reelase\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\ProyectoGame\Reelase\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ProyectoGame\Reelase\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\ProyectoGame\Reelase\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ProyectoGame\Reelase\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\ProyectoGame\Reelase\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ProyectoGame\Reelase\Game_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\ProyectoGame\Reelase\Game_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ProyectoGame\Reelase\Game_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\ProyectoGame\Reelase\Game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.037 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.785409 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1490 -> priority: 1 
+  Thread -> id: 1440 -> priority: 1 
