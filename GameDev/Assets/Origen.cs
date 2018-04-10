@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Spawner : MonoBehaviour {
+public class Origen : MonoBehaviour {
 	public GameObject particula;
 	// Use this for initialization
 	void Start () {
