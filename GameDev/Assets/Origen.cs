@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Origen : MonoBehaviour {
 	public GameObject particula;
+	//para controlar la direccion del movimiento
 	public int dir;
 	// Use this for initialization
 	void Start () {
@@ -23,6 +24,6 @@ public class Origen : MonoBehaviour {
 				dir = 1;
 			}
 		}
-		transform.Translate (Vector3.right * (Time.deltaTime * 500.0f*dir));
+		transform.Translate (Vector3.right * (Time.deltaTime * 00.0f*dir));
 	}
 }
