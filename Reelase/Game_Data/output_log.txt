@@ -23,7 +23,7 @@ Platform assembly: C:\Users\Sistemas\Desktop\ProyectoGame\Reelase\Game_Data\Mana
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.674273 ms
+UnloadTime: 2.553121 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: da0 -> priority: 1 
-  Thread -> id: 1070 -> priority: 1 
+  Thread -> id: 794 -> priority: 1 
+  Thread -> id: ab4 -> priority: 1 
