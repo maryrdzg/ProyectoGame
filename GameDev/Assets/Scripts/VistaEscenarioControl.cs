@@ -12,13 +12,15 @@ public class VistaEscenarioControl : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		/*
+		
 		//Rotar presionando el mouse
 		if (Input.GetMouseButton (0)) {
 			transform.LookAt (target);
 			transform.RotateAround(target.position, Vector3.up, Input.GetAxis("Mouse X")*speed);
-		}*/
+		}
+		/*
 		//Rotar en el mismo punto (por ahora automatico)
 		transform.Rotate(Vector3.up * Time.deltaTime* speed);
+		*/
 	}
 }
